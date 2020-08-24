@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot2-jpa-crud-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ederrocha
+Implementation-Vendor-Id: br.com.ersolution.viaflow.brasilprev
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ViaFlowBrasilPrev
+Created-By: Maven Integration for Eclipse
+
